@@ -3,7 +3,7 @@
 	url = https://github.com/free5gc/webconsole.git
 [submodule "src/amf"]
 	path = src/amf
-	url = https://github.com/free5gc/amf.git
+	url = https://github.com/ralfkundel/amf.git
 [submodule "src/ausf"]
 	path = src/ausf
 	url = https://github.com/free5gc/ausf.git
@@ -21,7 +21,7 @@
 	url = https://github.com/free5gc/pcf.git
 [submodule "src/smf"]
 	path = src/smf
-	url = https://github.com/free5gc/smf.git
+	url = https://github.com/ralfkundel/smf.git
 [submodule "src/udm"]
 	path = src/udm
 	url = https://github.com/free5gc/udm.git
@@ -63,10 +63,10 @@
 	url = https://github.com/free5gc/MongoDBLibrary.git
 [submodule "lib/nas"]
 	path = lib/nas
-	url = https://github.com/free5gc/nas.git
+	url = https://github.com/ralfkundel/nas.git
 [submodule "lib/ngap"]
 	path = lib/ngap
-	url = https://github.com/free5gc/ngap.git
+	url = https://github.com/ralfkundel/ngap.git
 [submodule "lib/openapi"]
 	path = lib/openapi
 	url = https://github.com/free5gc/openapi.git
