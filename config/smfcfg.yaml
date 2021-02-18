@@ -26,6 +26,7 @@ configuration:
             ipv4: 8.8.8.8
             ipv6: 2001:4860:4860::8888
           ueSubnet: 60.60.0.0/16 # should be CIDR type
+          #pcscfIpv4: 60.60.255.1 #telling the UE the IPv4 of the ims server
     - sNssai: # S-NSSAI (Single Network Slice Selection Assistance Information)
         sst: 1 # Slice/Service Type (uinteger, range: 0~255)
         sd: 112233 # Slice Differentiator (3 bytes hex string, range: 000000~FFFFFF)
